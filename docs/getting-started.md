@@ -14,7 +14,7 @@ It is recommended to install the DMS via [Composer](https://getcomposer.org/) in
  1. Create a new Laravel project [More details](https://laravel.com/docs/5.4/installation)
     
     ```
-    composer create-project --prefer-dist laravel/laravel your-project-name
+    composer create-project --prefer-dist laravel/laravel your-project-name -5.4.*    
     cd your-project-name
     ```
     
